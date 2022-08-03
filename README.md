@@ -1,7 +1,7 @@
 # OCR-based-MisDelivery-Detection-in-Last-Mile-Application
 This repo contains a class called LastMile() which can determine if drivers misdeliver packages which are supposed to be dropped at the correct designated addresses.
 
-### OCR-based MisDelivery Detection in Last Mile Application
+## OCR-based MisDelivery Detection in Last Mile Application
 
 ![alt text](https://github.com/yahya-bader-khawam/OCR-based-Misdelivery-Detection-in-Last-Mile-Application/blob/main/del1.png?raw=true)
 
@@ -12,7 +12,12 @@ There are plenty of courier companies that are responsible for delivering packag
 
 #### How The Algorithm Works?
 
+#### Data Formats:
 
 
-### Images References:
+#### Code Example:
+
+
+
+#### Images References:
 https://cdn.vectorstock.com/i/1000x1000/52/73/home-delivery-services-online-delivery-concept-vector-30605273.webp
