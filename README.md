@@ -3,7 +3,7 @@ This repo contains a class called LastMile() which can determine if drivers misd
 
 ### OCR-based MisDelivery Detection in Last Mile Application
 
-![alt text](https://github.com/yahya-bader-khawam/OCR-based-Misdelivery-Detection-in-Last-Mile-Application/blob/main/d1.png?raw=true)
+![alt text](https://github.com/yahya-bader-khawam/OCR-based-Misdelivery-Detection-in-Last-Mile-Application/blob/main/del1.png?raw=true)
 
 
 #### What is The Project All About?
@@ -14,4 +14,5 @@ There are plenty of courier companies that are responsible for delivering packag
 
 
 
-.
+### Images References:
+https://cdn.vectorstock.com/i/1000x1000/52/73/home-delivery-services-online-delivery-concept-vector-30605273.webp
