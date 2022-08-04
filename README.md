@@ -30,7 +30,7 @@ There are plenty of courier companies that are responsible for delivering packag
 * The database should be in this format. in this example, the database has two stops each of which with the corresponding information:
 
 
-  ```
+ ```
   database = {'stop_0':{'actual_lat_long':(43.569799, -79.504939),
                         'captured_lat_long':(43.568371, -79.507480),
                         'address': '412 - 4402 Street Name, Canada 1X1AB2',
@@ -47,6 +47,14 @@ There are plenty of courier companies that are responsible for delivering packag
 ## Code Example:
 
 ```
+import cv2 
+from craft_text_detector import Craft
+import numpy as np
+import re
+import easyocr
+import haversine as hs
+
+
 # creating a text localization object from CRAFT
 craft = Craft(output_dir=None, crop_type="poly", cuda=True)
 # creating a text recognition object from EasyOCR
